@@ -1,0 +1,2 @@
+FLASK_APP=consult.py
+FLASK_ENV=development
